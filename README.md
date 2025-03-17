@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @23Nero.
-- 👀 I’m interested in Linux.
-- 🌱 I'm pursuing a Master's degree in Future Learning at a university that specializes in Linux.
-- 💞️ My dream is to collaborate with Google on Linux projects.
-- 📫 You can reach me at linkedin.com/in/lamkhanh23.
-- ⚡ Fun fact: I'm currently researching a robotics algorithm at HCMC, although it's not something I particularly enjoy.
+# 👋 Hi, I'm @Nero
+
+## 🚀 About Me  
+I'm an **Embedded Android Engineer** with a strong passion for **Linux Kernel, AOSP, and embedded systems**. I specialize in **low-level development**, working with **Android HAL, device drivers, and system optimizations**.  
+
+## 💡 What I Do  
+- 🔹 **Embedded Systems**: Developing and optimizing low-level software for embedded devices.  
+- 🔹 **AOSP Development**: Customizing and building Android firmware, handling boot phase, and configuring system properties.  
+- 🔹 **Kernel & Drivers**: Working with Linux Kernel and integrating hardware components.  
+- 🔹 **Debugging & Optimization**: Using tools like Trace32, GDB, and oscilloscopes for system debugging.  
+- 🔹 **Version Control**: Managing repositories with Git and GitLab, handling large-scale projects.  
+
+## 🛠 Tech Stack  
+- **Languages**: C, C++, Java, Python, Bash
+- **Build Systems**: Yocto, AOSP Build, Jenkins  
+
+## 📫 Connect with Me  
+🔗 LinkedIn: [linkedin.com/in/lamkhanh23](https://linkedin.com/in/lamkhanh23)  
+
+🚀 Always eager to learn and collaborate on **embedded and Android projects**!  
 
 
 <!---
