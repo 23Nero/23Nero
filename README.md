@@ -8,7 +8,6 @@ I'm an **Embedded Android Engineer** with a strong passion for **Linux Kernel, A
 🔹 **AOSP Development**: Customizing and building Android firmware, handling boot phase, and configuring system properties.  
 🔹 **Kernel & Drivers**: Working with Linux Kernel and integrating hardware components.  
 🔹 **Debugging & Optimization**: Using tools like Trace32, GDB, and oscilloscopes for system debugging.  
-🔹 **Version Control**: Managing repositories with Git and GitLab, handling large-scale projects.  
 
 ## 🛠 Tech Stack  
 - **Languages**: C, C++, Java, Python, Bash.
