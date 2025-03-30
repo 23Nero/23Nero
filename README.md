@@ -1,7 +1,5 @@
 # 👋 Hi, I'm @Nero  
 
-![anime-coding](https://media.tenor.com/D5zFai5DHN8AAAAC/anime-hacker.gif)  
-
 ## 🚀 About Me  
 I'm an **Embedded Android Engineer** with a strong passion for **Linux Kernel, AOSP, and embedded systems**. I specialize in **low-level development**, working with **Android HAL, device drivers, and system optimizations**.  
 
