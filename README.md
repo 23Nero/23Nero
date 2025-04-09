@@ -1,22 +1,22 @@
-# 👋 Hi, I'm @Nero  
+# 👋 Hi, I’m @Nero  
 
 ## 🚀 About Me  
-I'm an **Embedded Android Engineer** with a strong passion for **Linux Kernel, AOSP, and embedded systems**. I specialize in **low-level development**, working with **Android HAL, device drivers, and system optimizations**.  
+I’m an **Android Engineer** driven by a deep passion for **Linux Kernel, AOSP, and embedded systems**. I specialize in **low-level development**, focusing on **Android HAL, device drivers, and system-level optimization** to unlock the full potential of embedded hardware.
 
 ## 💡 What I Do  
-- **Embedded Systems**: Developing and optimizing low-level software for embedded devices.  
-- **AOSP Development**: Customizing and building Android firmware, handling boot phase, and configuring system properties.  
-- **Kernel & Drivers**: Working with Linux Kernel and integrating hardware components.  
-- **Debugging & Optimization**: Using tools like Trace32, GDB, and oscilloscopes for system debugging.  
+- 🧠 **Embedded Systems**: Building and fine-tuning software for embedded platforms.  
+- ⚙️ **AOSP Development**: Customizing Android firmware, boot sequences, and system properties.  
+- 🧩 **Kernel & Drivers**: Integrating hardware with the Linux Kernel and writing custom drivers.  
+- 🛠 **Debugging & Optimization**: Solving complex system issues using Trace32, GDB, oscilloscopes, and other tools.
 
 ## 🛠 Tech Stack  
-- **Languages**: C, C++, Java, Python, Bash.  
-- **Build Systems**: Yocto, AOSP Build, Jenkins.  
+- **Languages**: C, C++, Rust, Java, Kotlin, Python, Bash  
+- **Build Systems**: AOSP Build System, Yocto, Jenkins  
 
-## 🎮 Hobbies  
-📖 Reading sci-fi & manga | 🎸 Playing guitar | 🎬 Watching anime & movies  
+## 🎮 Outside of Work  
+I love getting lost in **sci-fi novels, manga, and anime**. You’ll often find me jamming on my **electric guitar** or diving into a good **movie**.
 
-## 📫 Connect with Me  
-🔗 LinkedIn: [linkedin.com/in/lamkhanh23](https://linkedin.com/in/lamkhanh23)  
+## 🤝 Collaboration  
+Currently collaborating with **Google** on **Android Open Source Project (AOSP)** development.
 
-🚀 Always eager to learn and collaborate on **embedded and Android projects**!  
+--
