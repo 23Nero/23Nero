@@ -7,7 +7,4 @@ I’m an **Android Engineer** driven by a deep passion for **Linux Kernel, AOSP,
 - **Languages**: C, C++, Rust, Java, Kotlin, Python, Bash  
 - **Build Systems**: AOSP Build System, Yocto, Jenkins  
 
-## Collaboration  
-Currently collaborating with **Google** on **Android Open Source Project (AOSP)** development.
-
 --
