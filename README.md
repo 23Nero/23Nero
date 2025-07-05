@@ -1,7 +1,7 @@
-# Hi, I’m Nero  
+# Hi, I’m Nero Kute  
 
 ## About Me  
-I’m an **Android Engineer** driven by a deep passion for **Linux Kernel, AOSP, and embedded systems**. I specialize in **low-level development**, focusing on **Android HAL, device drivers, and system-level optimization** to unlock the full potential of embedded hardware.
+I'm an **Android Engineer** with a strong passion for the Linux Kernel, AOSP (Android Open Source Project), and embedded systems. I focus on low-level software development — the part that connects closely with the hardware.
 
 ## Tech Stack  
 - **Languages**: C, C++, Rust, Java, Kotlin, Python, Bash  
